@@ -1,0 +1,5 @@
+{
+  "name": "Neo-Brutalist Image Gen",
+  "description": "A text-to-image generator powered by Hugging Face, styled with a bold Neo-Brutalist aesthetic.",
+  "requestFramePermissions": []
+}
